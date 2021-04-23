@@ -1,0 +1,39 @@
+.cor-principal-bg {
+    background-color: #672f6d;
+  }
+  
+  .cor-titulo {
+    background-color: #5f4270;
+  }
+  
+  .btn-primary {
+    background-color: #524149 !important;
+    padding: 20px 20px;
+    border: 1px solid rgb(16, 44, 20);
+    border-radius: 36px;
+    font-size: 15px;
+    
+  }
+  
+  .btn-primary:active {
+    background-color: #461e34 !important;
+  }
+
+ body {
+   background-color:rgb(148, 141, 180);
+ }
+
+ h1{
+
+  border-bottom:1px solid black;
+  border-top: 1PX solid black;
+  padding: 17px;
+  color: rgb(131, 23, 29);
+}
+
+h4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:rgb(218, 217, 216);
+}
+
+
